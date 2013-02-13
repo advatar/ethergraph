@@ -27,6 +27,10 @@ Can this be done as an EtherPad plugin? Or would we need to fork?
 
 Can we build a fully distributed solution?
 
+### Approach 4 - MindMup
+
+Apart from collaboration support [MindMup](http://www.mindmup.com/ "MindMup") looks quite promising. It deploys to Heroku and has a S3 dependency.
+
 ### Who?
 
 We are just starting from scratch hoping to build somewhat of a community around the concept. Committers are welcome!
