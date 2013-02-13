@@ -29,7 +29,10 @@ Can we build a fully distributed solution?
 
 ### Approach 4 - MindMup
 
-Apart from collaboration support [MindMup](http://www.mindmup.com/ "MindMup") looks quite promising. It deploys to Heroku and has a S3 dependency.
+Apart from collaboration support [MindMup](http://www.mindmup.com/ "MindMup") looks quite promising. 
+It deploys to Heroku and has a S3 dependency.
+
+However, they distribute the frontend stand alone as well: [map.js](https://github.com/mindmup/mapjs "map.js")
 
 ### Who?
 
